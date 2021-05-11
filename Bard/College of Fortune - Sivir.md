@@ -36,4 +36,4 @@ Whenever you activate Mercenary Contract, gain a second Extra Attack, and critic
 ## Coveting Riches
 *14th level*
 
-If you have more wealth than a sentient opponent, all your Charisma rolls agaisnt them have advantage, while theirs have disadvantage.
+If you have more wealth than a sentient opponent, all your Charisma rolls against them have advantage, while theirs have disadvantage against you.

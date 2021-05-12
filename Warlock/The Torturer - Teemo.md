@@ -9,7 +9,7 @@ Shall you pledge your soul to it, it shall grant you power to spread suffering i
 In exchange, it shall require you to feed it with the cries of your victims, in preparation of its imminent return.
 
 ## Expanded Spell List
-The torturer wishes for nothing more than the suffering of your enemies, or whatever you can bring harm to.
+The Torturer wishes for nothing more than the suffering of your enemies, or whatever you can bring harm to.
 It will allow you to learn the following spells as your Warlock spells, in addition to those from the Warlock spell list.
 
 Level | Spells

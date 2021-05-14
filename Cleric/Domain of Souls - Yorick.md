@@ -28,12 +28,18 @@ As a bonus action, you may command a number of souls to take the Help action on 
 ## Channel Divinity: Mounring Mist
 *2nd level*
 
+You can use Channel Divinity to create a sphere with 30 ft diameter and 20 ft range, covered in dark mist.
+Creatures inside suffer an unearthy chill, losing 5 ft of speed and must make a Constitution saving throw with your spell save DC at the beginning of each turn.
+On a failure, they take 1d6 + half your cleric levels (rounded down) as necrotic damage.
 
+This sphere lasts for 3 rounds. Any creatures of your choosing won't suffer its effects.
 
 ## Dark Procession
 *6th level*
 
+Use a number of souls of your choosing, to cover yourself with a dark barrier. On each hit you take, the barrier absorbs up to 2d6 damage, consuming one soul from the barrier in the process. The barrier disipates after 15 minutes.
 
+While the barrier has 3 or more souls, you're lightly obscured if in bright light, and heavily obscured while in dim light.
 
 ## Divine Strike
 *8th level*

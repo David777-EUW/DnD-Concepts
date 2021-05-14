@@ -13,7 +13,7 @@ Spell Level | Spells
 ## Bonus Proficiencies
 *1st level*
 
-Gain proficiency with Heavy Armor.
+Gain proficiency with Heavy Armor. You also gain the ability to wield a Spade as a weapon, which deals 1d6 slashing damage and is versatile (1d8).
 
 ## Last Rites
 *1st level*

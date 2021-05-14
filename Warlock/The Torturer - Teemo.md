@@ -12,7 +12,7 @@ In exchange, it shall require you to feed it with the cries of your victims, in 
 The Torturer wishes for nothing more than the suffering of your enemies, or whatever you can bring harm to.
 It will allow you to learn the following spells as your Warlock spells, in addition to those from the Warlock spell list.
 
-Level | Spells
+Spell Level | Spells
 --- | ---
 *1st level* | Detect Poison, Ray of Sickness
 *2nd level* | Blindness/Deafness, Blur

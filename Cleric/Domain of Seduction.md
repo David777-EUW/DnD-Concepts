@@ -26,4 +26,4 @@ Starting at 8th level, when conditions you've applied expire, they deal damage e
 ## Avatar of Seduction
 Starting at 17th level, you become an avatar of desire and seduction.
 
-Whenever your cast a spell, and it damages an enemy this turn, it deals the damage from *Love Is Pain*. This also breaks affected enemies' Concentration.
+Whenever your cast a spell that requires an enemy to save, they take *Love Is Pain* damage and lose Concentration.
